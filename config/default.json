@@ -1,0 +1,8 @@
+{
+  "google": {
+    "clientId": "252154231963-1ksj9f5ceiohhnm7jf4kcb925ve0hg0b.apps.googleusercontent.com",
+    "clientSecret": "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",
+    "callbackUrl": "http://localhost:5000/google/callback"
+  },
+  "port": 5000
+}
